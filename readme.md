@@ -6,5 +6,5 @@ Configuration preference on [Sublime Text 4](https://www.sublimetext.com).
 
 Installed using Package Control.
 
-- [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter)
-- [GitGutter](https://github.com/jisaacks/GitGutter)
+- [Markdown Preview](https://facelessuser.github.io/MarkdownPreview)
+- [Git](https://github.com/kemayo/sublime-text-git)

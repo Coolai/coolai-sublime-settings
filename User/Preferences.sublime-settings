@@ -6,5 +6,10 @@
     "line_padding_top": 0,
     "line_padding_bottom": 0,
 
-    "translate_tabs_to_spaces": true
+    "translate_tabs_to_spaces": true,
+    
+    "ignored_packages":
+    [
+        "Vintage",
+    ],
 }
